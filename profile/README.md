@@ -11,7 +11,7 @@ Welcome to **ALTLevelUp**, the companion GitHub repository for the [ALT Level Up
 This is your digital launchpad for content and ideas featured on the channel. Think of it as **behind-the-scenes + bonus content + community toolkit**, including:
 
 - 🎥 **Video Script Drafts & Notes**  
-- 🧩 **Device Spec Breakdowns** (e.g., PS6, Foldables, OnePlus leaks)  
+- 🧩 **Device Spec Breakdowns** (e.g., PS6, Foldables, OnePlus leaks, [Apple](https://www.youtube.com/@ALTLevelUp/search?query=apple))  
 - 🧠 **Life Upgrade Frameworks** (goal-setting, productivity, mindset prompts)  
 - 🎮 **Gaming Culture Reports** (trends, gear, consoles, hype analysis)  
 - 🛠️ **Open Tech Resources** (Markdown templates, dev toolkits, shortcuts)
